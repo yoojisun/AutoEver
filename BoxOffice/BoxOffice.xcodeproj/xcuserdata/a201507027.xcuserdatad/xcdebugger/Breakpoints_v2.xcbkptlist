@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CC2DC16B-9A27-4534-953F-A77A2606A526"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71859014-A884-4A99-B6CD-337D28DC11B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BoxOffice/Application/Presentation/Controller/SelectWeeklyView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "initView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71859014-A884-4A99-B6CD-337D28DC11B4 - 60815a0177f8c23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoxOffice.SelectWeeklyView.initView() -&gt; ()"
+                  moduleName = "BoxOffice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a201507027/Documents/BoxOffice/BoxOffice/BoxOffice/Application/Presentation/Controller/SelectWeeklyView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "71859014-A884-4A99-B6CD-337D28DC11B4 - 60815a0177f8ca7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoxOffice.SelectWeeklyView.initView() -&gt; ()"
+                  moduleName = "BoxOffice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a201507027/Documents/BoxOffice/BoxOffice/BoxOffice/Application/Presentation/Controller/SelectWeeklyView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "71859014-A884-4A99-B6CD-337D28DC11B4 - 60815a0177f8c23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoxOffice.SelectWeeklyView.initView() -&gt; ()"
+                  moduleName = "BoxOffice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a201507027/Documents/BoxOffice/BoxOffice/BoxOffice/Application/Presentation/Controller/SelectWeeklyView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "71859014-A884-4A99-B6CD-337D28DC11B4 - 60815a0177f8c23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoxOffice.SelectWeeklyView.initView() -&gt; ()"
+                  moduleName = "BoxOffice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a201507027/Documents/BoxOffice/BoxOffice/BoxOffice/Application/Presentation/Controller/SelectWeeklyView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "576">
+               </Location>
+               <Location
+                  uuid = "71859014-A884-4A99-B6CD-337D28DC11B4 - 60815a0177f8c23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoxOffice.SelectWeeklyView.initView() -&gt; ()"
+                  moduleName = "BoxOffice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a201507027/Documents/BoxOffice/BoxOffice/BoxOffice/Application/Presentation/Controller/SelectWeeklyView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "896">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCF7AD39-224A-4777-AFBA-67B881BC50C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BoxOffice/Application/Presentation/Controller/SelectWeeklyView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "awakeFromNib()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DCF7AD39-224A-4777-AFBA-67B881BC50C8 - 4f29d2d00b6a8436"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoxOffice.SelectWeeklyView.__allocating_init(frame: __C.CGRect) -&gt; BoxOffice.SelectWeeklyView"
+                  moduleName = "BoxOffice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a201507027/Documents/BoxOffice/BoxOffice/BoxOffice/Application/Presentation/Controller/SelectWeeklyView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "DCF7AD39-224A-4777-AFBA-67B881BC50C8 - 48520858b7add112"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoxOffice.SelectWeeklyView.init(frame: __C.CGRect) -&gt; BoxOffice.SelectWeeklyView"
+                  moduleName = "BoxOffice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a201507027/Documents/BoxOffice/BoxOffice/BoxOffice/Application/Presentation/Controller/SelectWeeklyView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "DCF7AD39-224A-4777-AFBA-67B881BC50C8 - fe7b8017c133d4b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoxOffice.SelectWeeklyView.awakeFromNib() -&gt; ()"
+                  moduleName = "BoxOffice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a201507027/Documents/BoxOffice/BoxOffice/BoxOffice/Application/Presentation/Controller/SelectWeeklyView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
