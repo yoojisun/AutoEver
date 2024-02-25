@@ -1,4 +1,4 @@
-# AutoEver
+# BoxOffice For AutoEver
 
 ## Run Project 
 open BoxOffice.xcodeproj
